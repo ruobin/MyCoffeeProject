@@ -3,4 +3,6 @@
 ## Getting started
 
 `$ npm install`
+
+
 `$ react-native run-android`
